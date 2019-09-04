@@ -1,0 +1,135 @@
+.container
+{
+  max-width: 1000px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+
+/************************ MARGINS *********************/
+.m-1
+{
+  margin: 10px;
+}
+
+.m-2
+{
+  margin: 20px;
+}
+
+.m-3
+{
+  margin: 30px;
+}
+.mb-3p
+{
+  margin: 10% auto;
+}
+.mb-1
+{
+  margin-bottom: 10px;
+}
+
+.mb-2
+{
+  margin-bottom: 20px;
+}
+
+.mb-3
+{
+  margin-bottom: 5%;
+}
+
+.mt-1
+{
+  margin-top: 10px;
+}
+
+.mt-2
+{
+  margin-top: 20px;
+}
+
+.mt-4
+{
+  margin-top: 7%;
+}
+
+
+/************************************* PADDINGS *******************************/
+
+.p-1
+{
+  padding: 10px;
+}
+
+.p-2
+{
+  padding: 20px;
+}
+
+/*************************************BACKGROUND********************************/
+.bg-light
+{
+  background-color: white;
+  /*
+  background-color: #fff0fc;*/
+}
+
+.bg-dark
+{
+  background-color:  #fcbdee;
+}
+
+.row
+{
+  margin-left: 0;
+  margin-right: 0;
+  box-sizing: border-box;
+  height: auto;
+}
+
+.row::after
+{
+  clear: both;
+}
+
+.row .col
+{
+  float: left;
+}
+
+.row .col.s3
+{
+  width: 30%;
+  margin: auto 1.5%;
+  box-sizing: border-box;
+}
+
+.fl
+{
+  float: left;
+}
+.fr
+{
+  float: right;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+.left
+{
+  text-align: left;
+}
+
+.right
+{
+  text-align: right;
+}
+
+.center
+{
+  text-align: center;
+}

@@ -1,0 +1,43 @@
+
+.footer-link li a:visited,
+.footer-link li a:link,
+.footer-link li a:active,
+.footer-link li a:hover,
+.footer-div a
+{
+  color: #000;
+  text-align: center;
+}
+.footer-hd
+{
+  text-align: center;
+  font-size: 10vh;
+  font-family: 'stalemate','cursive';
+  background-color: #fcbdee;
+  border-radius: 30px;
+}
+
+.bdr-rl
+{
+  border-right: 1px solid #333333;
+  border-left: 1px solid #333333;
+}
+
+.footer-div
+{
+  display: inline-block;
+  width: 33%;
+  box-sizing: border-box;
+  text-align: center;
+  height: 100%;
+}
+.foot-moto
+{
+  font-size: 3vh;
+}
+
+.copyright
+{
+  text-align: center;
+  font-size: 2.5vh;
+}

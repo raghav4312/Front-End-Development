@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  box-sizing: border-box;
+}
+
+
+.cover
+{
+  max-width: 820px;
+  margin: 30px auto;
+}
+
+#cover-img
+{
+  border-radius:10px;
+}
+
+.about-txt{
+  text-align: center;
+  font-size: 30px;
+}
+
+.tpe-txt
+{
+  text-align: center;
+  font-size: 9vh;
+  font-family: 'stalemate','cursive';
+  font-weight: bold;
+}
